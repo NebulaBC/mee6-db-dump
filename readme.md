@@ -5,7 +5,7 @@ This python script is small but mighty! It can dump the levels database of any m
 *most other tools for interacting with the mee6 api have been depricated by mee6*
 
 ```
-Step 1: download main.py and make sure you have sqlite3 installed with pip.
+Step 1: Download main.py and make sure you have sqlite3 installed with pip.
 Step 2: Run the script.
 Step 3: When you are prompted for your server id, go to https://mee6.xyz/dashboard/ and click go on your desired server.
 Step 4: Take the server's mee6 id from the URL (E.g. https://x.neb.cx/u/kHyEWe.png)
