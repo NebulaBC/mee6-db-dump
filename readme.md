@@ -5,7 +5,7 @@ This python script is small but mighty! It can dump the levels database of any m
 *most other tools for interacting with the mee6 api have been depricated by mee6*
 
 ```
-Step 1: Download main.py.
+Step 1: Download main.py // `git clone https://github.com/NebulaBC/mee6-db-dump`.
 Step 2: Run `pip3 install -r requirements.txt`
 Step 3: Run `python3 main.py`.
 Step 4: When you are prompted for your server id, go to https://mee6.xyz/dashboard/ and click go on your desired server.
